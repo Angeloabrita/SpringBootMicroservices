@@ -362,25 +362,3 @@ Explore as APIs Rest
     Bearer Token : Access Token do Usuário do Keycloak
 ```
 
-### Capturas de Tela
-
-<details>
-<summary>Clique aqui para mostrar as capturas de tela do projeto</summary>
-    <p> Figura 1 </p>
-    <img src ="screenshots/keycloak_1.PNG">
-    <p> Figura 2 </p>
-    <img src ="screenshots/keycloak_2.PNG">
-    <p> Figura 3 </p>
-    <img src ="screenshots/keycloak_3.PNG">
-    <p> Figura 4 </p>
-    <img src ="screenshots/keycloak_4.PNG">
-    <p> Figura 5 </p>
-    <img src ="screenshots/keycloak_5.PNG">
-    <p> Figura 6 </p>
-    <img src ="screenshots/keycloak_6.PNG">
-    <p> Figura 7 </p>
-    <img src ="screenshots/keycloak_7.PNG">
-    <p> Figura 8 </p>
-    <img src ="screenshots/rabbitmq_1.PNG">
-    <p> Figura 9 </p>
-    <img src ="screenshots/rabbitmq_2.PNG">
