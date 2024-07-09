@@ -1,6 +1,6 @@
 # Exemplo de Microsserviços Spring Boot (Eureka Server, Config Server, API Gateway, Serviços, RabbitMq, Keycloak)
 
-### Esse projeto é parte de um treinamento de Java(2022) utilizando arquitetura em micro-serviços com autenticação, autorização, mensageria e DevOps(Docker) e demais stacks.
+### Esse projeto é parte de um treinamento de Java utilizando arquitetura em micro-serviços com autenticação, autorização, mensageria e DevOps(Docker) e demais stacks.
 
 <img src="screenshots/springbootmicroservices.drawio_image.png" alt="Informação Principal" width="800" height="900">
 
